@@ -1,0 +1,221 @@
+{
+  "sequence": [
+    {
+      "id": 1,
+      "question": "Which city is known as the 'Silicon Valley of India'?",
+      "answer": "Bangalore",
+      "qrHint": "I speak without a tongue, yet tell countless tales, My voice is in whispers, through papered trails. Seek me where silence is wisdom’s best friend, A hall of knowledge that has no end.",
+      "common": false
+    },
+    {
+      "id": 2,
+      "question": "What does 'CPU' stand for in a computer?",
+      "answer": "Central Processing Unit",
+      "qrHint": "I have no wings, yet I make breezes, On hot summer days, I bring cool releases. Standing outside, I hum all day, Find me where the heat won’t stay.",
+      "common": false
+    },
+    {
+      "id": 3,
+      "question": "What is the national animal of India?",
+      "answer": "Tiger",
+      "qrHint": "I stand on the wall, silent but wise, A leader remembered through students’ eyes. Seek the founder whose vision was grand, Your next hint lies where his portrait stands.",
+      "common": false
+    },
+    {
+      "id": 4,
+      "question": "What is the common keyboard shortcut to copy text or a file?",
+      "answer": "Ctrl C",
+      "qrHint": "Pinned with papers, neat and tall, I announce the news to one and all. Stand before me, read what’s shown, The next clue hides where updates are known.",
+      "common": false
+    },
+    {
+      "id": 5,
+      "question": "Which festival is known as the 'Festival of Lights' in India?",
+      "answer": "Diwali",
+      "qrHint": "In danger I wait, though I hope I’m unused, Red in color, with water infused. If flames should appear, I’m ready to fight, Find me to take your next step right.",
+      "common": false
+    },
+    {
+      "id": 6,
+      "question": "What do the letters 'URL' stand for?",
+      "answer": "Uniform Resource Locator",
+      "qrHint": "I drift through halls with waves you cannot see, I bring your notes, videos, chats — fast and free. From lecture hall to quad I silently fly — What am I that links this whole campus sky?",
+      "common": false
+    },
+    {
+      "id": 7,
+      "question": "What is the main programming language used to build Android apps?",
+      "answer": "Kotlin",
+      "qrHint": "I eat a page and give twins back, Each one the same, no detail I lack. I’m quick and neat, your copy guide, What am I with mirrors inside?",
+      "common": false
+    },
+    {
+      "id": 8,
+      "question": "What iconic monument is located in Agra, India?",
+      "answer": "Taj Mahal",
+      "qrHint": "I’m built for crowds, yet none arrive, Silent steps where echoes thrive. New but empty, waiting to cheer, Your treasure rests — the end is near.",
+      "common": false
+    },
+    {
+      "id": 9,
+      "question": "What does RAM stand for in a computer context?",
+      "answer": "Random Access Memory",
+      "qrHint": "Four legs I stand, yet walk I never, I wear a crown that falls off never. I guard no doors, no walls, no gate, Still I’m the place where seekers wait.",
+      "common": false
+    },
+    {
+      "id": 10,
+      "question": "Which Indian festival is famous for the throwing of colored powders?",
+      "answer": "Holi",
+      "qrHint": "A rim of stone that holds the sky, I catch the light when clouds drift by. Found at the heart of open green, A quiet circle where footsteps lean.",
+      "common": false
+    },
+    {
+      "id": 11,
+      "question": "What is the name of India's national space agency?",
+      "answer": "ISRO",
+      "qrHint": "I move back and forth, steady and true, Shaping metals is what I do. Flat or smooth, I make things right, Find me where sparks and tools take flight.",
+      "common": false
+    },
+    {
+      "id": 12,
+      "question": "What software is used to browse the World Wide Web?",
+      "answer": "Browser",
+      "qrHint": "I stand on four wheels, yet I never roam, With net in the middle, I make balls roam. A game of speed, with a tiny sphere, Come find me where paddles cheer.",
+      "common": false
+    },
+    {
+      "id": 13,
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "answer": "Mahatma Gandhi",
+      "qrHint": "I wear a crown of five-pointed stars, Their golden hearts shine from afar. Not a temple, yet often near one, Seek my shade, your clue’s begun.",
+      "common": false
+    },
+    {
+      "id": 14,
+      "question": "What does 'PDF' stand for?",
+      "answer": "Portable Document Format",
+      "qrHint": "I have no legs but help you sit, Beside the hedge, I quietly fit. Not a bed, yet I give you ease, Find me soon beneath the trees.",
+      "common": false
+    },
+    {
+      "id": 15,
+      "question": "What is the capital city of India?",
+      "answer": "New Delhi",
+      "qrHint": "I wait for your words, complaints or praise, Locked in silence for many days. If you seek the next clue, don’t be late, Check the box where suggestions wait.",
+      "common": false
+    },
+    {
+      "id": 16,
+      "question": "What is a 'bug' in computer programming?",
+      "answer": "An error",
+      "qrHint": "I keep things cool though I’m not a fan, Machines love me more than man. Near the room where data flows, Find your clue where the cold air blows.",
+      "common": false
+    },
+    {
+      "id": 17,
+      "question": "Who wrote the Indian National Anthem, 'Jana Gana Mana'?",
+      "answer": "Rabindra Nath Tagore",
+      "qrHint": "I’m painted red, I wait on the wall, Silent protector if danger should call. Beside the labs where coders stay, Find me there to clear your way.",
+      "common": false
+    },
+    {
+      "id": 18,
+      "question": "What is the name for the set of rules that governs communication between computers?",
+      "answer": "Protocol",
+      "qrHint": "I quench your thirst when you are dry, Cold relief when the heat is high. To the north, I stand tall and bright, Find me there to set things right.",
+      "common": false
+    },
+    {
+      "id": 19,
+      "question": "Which is the longest river flowing through India?",
+      "answer": "Ganges",
+      "qrHint": "Up and down, I bear the load, Countless feet have walked my road. On the ground, where all begin, Find me where the steps wear thin.",
+      "common": false
+    },
+    {
+      "id": 20,
+      "question": "What does WWW stand for?",
+      "answer": "World Wide Web",
+      "qrHint": "On campus I roll, but not with a siren’s sound, I’m smaller than my brothers, easy to spot, Find me waiting in the parking lot.",
+      "common": false
+    },
+    {
+      "id": 21,
+      "question": "Who was the first Prime Minister of India?",
+      "answer": "Jawaharlal Nehru",
+      "qrHint": "No circuits here, just stems and leaves — I buffer noise and filter greaves. Rooted like a server, I still don’t byte. Which department keeps me in sight?",
+      "common": false
+    },
+    {
+      "id": 22,
+      "question": "What is the name of the program that protects a computer from viruses?",
+      "answer": "Antivirus",
+      "qrHint": "Feed me papers, wrappers, peels, I’m the one who seals your deals. I keep the campus neat and green, What am I, often marked “USE ME” seen?",
+      "common": false
+    },
+    {
+      "id": 23,
+      "question": "What is the currency of India?",
+      "answer": "Rupee",
+      "qrHint": "In Poly halls I stand so neat, a chilly bird who doesn’t eat. But wrappers, papers, plastic too, I’ll happily gobble them all from you. What am I?",
+      "common": false
+    },
+    {
+      "id": 24,
+      "question": "A computer 'firewall' is used for what purpose?",
+      "answer": "Security",
+      "qrHint": "I stand with faces bright and bold, New stories and trends are what I hold. Not books, but pages that change each week, Find me when fresh knowledge you seek.",
+      "common": false
+    },
+    {
+      "id": 25,
+      "question": "Which Indian city is famous for its tea gardens?",
+      "answer": "Darjeeling",
+      "qrHint": "I guard the wisdom of pages untold, Through me, borrowed treasures unfold. You’ll meet me first before knowledge you earn, Where journeys begin and later return.",
+      "common": false
+    },
+    {
+      "id": 26,
+      "question": "In computing, what is a 'bit' short for?",
+      "answer": "Binary Digit",
+      "qrHint": "I’m not alive, yet I can walk, I have no mouth, yet I can talk. Students guide me with skill and care, Guess the lab—you’ll find me there!",
+      "common": false
+    },
+    {
+      "id": 27,
+      "question": "What is the largest state in India by area?",
+      "answer": "Rajasthan",
+      "qrHint": "I don’t speak, yet I tell the news, Daily updates, for you to choose. Flip the page, the world you’ll see, Find your clue where headlines be.",
+      "common": false
+    },
+    {
+      "id": 28,
+      "question": "What does 'OS' stand for in the context of computers?",
+      "answer": "Operating System",
+      "qrHint": "I have one eye that never blinks, I see your moves, your food, your drinks. I never eat, I never rest, Yet I sit and watch upon this desk. What am I?",
+      "common": false
+    },
+    {
+      "id": 29,
+      "question": "Which is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "qrHint": "I once had wheels to roam the street, With eager engine, fast and fleet. Now weeds and rust are friends of mine, I sleep by walls, without a sign. Behind the college, still I stay — Forgotten here, I fade away. Who am I?",
+      "common": false
+    },
+    {
+      "id": 30,
+      "question": "Who is the current CEO of Google?",
+      "answer": "Sundar Pichai",
+      "qrHint": "Step through the doors, walk straight inside, At the far wall where the hallways divide. A face of wisdom, stern yet bright, The man who gifted the world with light. Who waits there, watching all who come, Opposite the college, silent and numb?",
+      "common": false
+    },
+    {
+      "id": 31,
+      "question": "What is the hexadecimal equivalent of the decimal number 10?",
+      "answer": "A",
+      "qrHint": "I sit above the quiet hall, Past the broad corridor you must crawl. From my lonely ledge the gate is seen, A secret window, seldom been. Few feet visit this hidden berth — A silent lookout, keeper of worth. Where am I?",
+      "common": true
+    }
+  ]
+}

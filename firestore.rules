@@ -1,0 +1,15 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // A user can only access their own team document
+    match /teams/{teamId} {
+      allow read, update: if request.auth != null && request.auth.uid == teamId;
+      allow create: if request.auth != null; // Anyone logged in can create their own team document
+      
+      // Rules for the 'results' subcollection
+      match /results/{clueId} {
+      	allow read, write: if request.auth != null && request.auth.uid == teamId;
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "sequence": [
+    {
+      "id": 1,
+      "type": "riddle",
+      "question": "What is the capital of France?",
+      "answer": "paris",
+      "hints": [
+        "It’s also called the city of lights.",
+        "Eiffel Tower is here."
+      ],
+      "clue": "Now go scan the QR code near the library gate."
+    },
+    {
+      "id": 2,
+      "type": "puzzle",
+      "qrKey": "qr_library",
+      "description": "Scan the QR near the library gate."
+    },
+    {
+      "id": 3,
+      "type": "riddle",
+      "question": "What is the largest planet in our Solar System?",
+      "answer": "jupiter",
+      "hints": [
+        "It’s a gas giant.",
+        "Named after the king of Roman gods."
+      ],
+      "clue": "Next QR is at the canteen notice board."
+    },
+    {
+      "id": 4,
+      "type": "puzzle",
+      "qrKey": "qr_canteen",
+      "description": "Scan the QR at the canteen notice board."
+    },
+    {
+      "id": 5,
+      "type": "riddle",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "answer": "shakespeare",
+      "hints": [
+        "English playwright.",
+        "Also wrote Hamlet."
+      ],
+      "clue": "Find the QR near the main gate tree."
+    },
+    {
+      "id": 6,
+      "type": "puzzle",
+      "qrKey": "qr_tree",
+      "description": "Scan the QR near the main gate tree."
+    },
+    {
+      "id": 7,
+      "type": "riddle",
+      "question": "What is the chemical symbol for water?",
+      "answer": "h2o",
+      "hints": [
+        "It has hydrogen and oxygen.",
+        "Essential for life."
+      ],
+      "clue": "Final QR is common for all: Principal’s Office board."
+    },
+    {
+      "id": 8,
+      "type": "puzzle",
+      "qrKey": "qr_final",
+      "description": "Scan the QR at the Principal’s Office board."
+    }
+  ]
+}
