@@ -50,7 +50,7 @@ Copy code
 
 ### 1️⃣ Clone Repo
 ```
-git clone https://github.com/YOUR_USERNAME/QrQuest.git
+git clone https://github.com/VortexV7/QR-Quest.git
 cd QrQuest
 ```
 ### 2️⃣ Backend Setup
